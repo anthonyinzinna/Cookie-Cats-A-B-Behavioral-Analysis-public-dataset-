@@ -1,4 +1,4 @@
-# Cookie_Cats_A_B_Behavioral_Analysis
+# Mobile-Game-Retention-AB-Test
 Player engagement on a mobile game
 
 
