@@ -1,4 +1,4 @@
-# Cookie_Cats_A_B_Behavioral_Analysis_public_dataset
+# Cookie_Cats_A_B_Behavioral_Analysis
 Player engagement on a mobile game
 
 
